@@ -3,7 +3,7 @@
 
 ## Overview
 This repository contains the plot scripts and model results used for the preliminary evaluation of CoLM-UBCM, supporting the manuscript:
-> "A New 3D Urban Building Community Model for Earth System Modeling: Model Formulation and Evaluation" submitted to _Journal of Advances in Modeling Earth Systems_. A related dataset is open access at: 10.5281/zenodo.17919049.
+> "A New 3D Urban Building Community Model for Earth System Modeling: Model Formulation and Evaluation" submitted to _Journal of Advances in Modeling Earth Systems_.
 
 ## Code Organization
 
