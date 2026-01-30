@@ -43,12 +43,12 @@ The code is organized into three main functional directories:
 │       └── restart
 ├── PILPS-Urban
 │   │ 
-│   └── G11_AU-Pres.py 
+│   └── PILPS-Urban.ipynb 
 └── Urban-PLUMBER2
-    ├── diurnal_AU-Pres.py           # diurnal cycle plot
-    ├── Plumber2_AU-Pres.py          # box plot
-    ├── RMSE_results.csv             # Except for CoLM-UBCM, the other model results are from https://urban-plumber.github.io/AU-Preston/plots/
-    └── R_results.csv                # Except for CoLM-UBCM, the other model results are from https://urban-plumber.github.io/AU-Preston/plots/
+    ├── diurnal_AU.ipynb           # diurnal cycle plot
+    ├── Plumber2_AU.ipynb          # box plot
+    ├── RMSE_results.csv           # Except for CoLM-UBCM, the other model results are from https://urban-plumber.github.io/AU-Preston/plots/
+    └── R_results.csv              # Except for CoLM-UBCM, the other model results are from https://urban-plumber.github.io/AU-Preston/plots/
 ```
 <br>
 
