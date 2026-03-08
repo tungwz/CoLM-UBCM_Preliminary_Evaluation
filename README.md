@@ -92,7 +92,7 @@ Example: `AU-Preston_hist_2003-08.nc`
 - PDF file: `Figure13.pdf`
 
 **Methodology:**
-- Aggregates all 30-minute data into hourly composites
+- Groups all 30-minute data by time-of-day to create diurnal composites (48 points per day)
 - Calculates mean diurnal cycle across the entire analysis period
 - Computes RMSE for each configuration against observations
 
