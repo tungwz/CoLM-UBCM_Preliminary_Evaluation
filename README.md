@@ -163,7 +163,7 @@ jupyter notebook Plumber2_AU.ipynb
 
 ## References
 
-- Urban-PLUMBER2: [Project Website](https://urban-plumber2.org/)
+- Urban-PLUMBER2: [Project Website](https://urban-plumber.github.io/)
 - PILPS-Urban: Project for Intercomparison of Land-surface Parameterization Schemes - Urban
 
 ## License
