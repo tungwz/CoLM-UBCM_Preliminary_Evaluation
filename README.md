@@ -168,4 +168,4 @@ jupyter notebook PILPS-Urban.ipynb
 ## References
 
 - Urban-PLUMBER2: https://urban-plumber.github.io/
-- PILPS-Urban: Project for Intercomparison of Land-surface Parameterization Schemes - Urban
+- PILPS-Urban: Grimmond, C. S. B., Blackett, M., Best, M. J., Baik, J.-J., Belcher, S. E., Beringer, J., Bohnenstengel, S. I., Calmet, I., Chen, F., Coutts, A., Dandou, A., Fortuniak, K., Gouvea, M. L., Hamdi, R., Hendry, M., Kanda, M., Kawai, T., Kawamoto, Y., Kondo, H., ... Zhang, N. (2011). Initial results from Phase 2 of the international urban energy balance model comparison. International Journal of Climatology, 31(2), 244-272. https://doi.org/10.1002/joc.2227
