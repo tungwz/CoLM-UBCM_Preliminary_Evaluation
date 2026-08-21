@@ -28,11 +28,13 @@ The repository is data-heavy because it includes NetCDF model output.
 │   │   ├── AU-Preston_clean_observations_v1.nc
 │   │   └── FR-Capitole_clean_observations_v1.nc
 │   ├── veg/AU-Preston/
+│   ├── veg/FR-Capitole/
 │   ├── no_irr/AU-Preston/
 │   ├── no_irr/FR-Capitole/
 │   ├── no_ah/FR-Capitole/
 │   ├── urb/AU-Preston/
-│   └── slab/AU-Preston/
+│   ├── slab/AU-Preston/
+│   └── slab/FR-Capitole/
 └── README.md
 ```
 
